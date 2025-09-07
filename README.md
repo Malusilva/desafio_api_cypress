@@ -26,7 +26,7 @@ Este projeto implementa testes automatizados para a API do DemoQA BookStore, uti
 
 1. Clone o repositório
 ```bash
-git clone [url-do-repositorio]
+git clone [https://github.com/Malusilva/desafio_api_cypress.git]
 
 ```
 2. Instale as dependências
